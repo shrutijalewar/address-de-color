@@ -1,0 +1,26 @@
+
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    title People
+    link(rel='stylesheet', href='/css/style.css')
+  body
+     h1 People
+     nav 
+      ul
+        li: a(href='/') Home
+        li: a(href= '/about') About
+        li: a(href='/faq') Frequently Asked Question
+        li: a(href='/contact') Contact
+        li: a(href='people/index') People Index
+
+     h2 People Page!
+     each person in people
+       .person
+         ul
+           li= person.name
+           li= person.email
+           li= person.color
+           li= person.website
+           li= person.phone
