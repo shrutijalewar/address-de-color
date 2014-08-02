@@ -1,7 +1,17 @@
 [
 {"name":"Bob Smith", "email":"bob@aol.com", "phone":"615-555-1212", "color":"pink", "website":"http://cnn.com"},
 {"name":"Lucy Hop", "email":"lucy@aol.com", "phone":"615-444-1112", "color":"red", "website":"http://bbc.com"},
-{"name":"Pat Pat", "email":"pat@aol.com", "phone":"615-333-4411", "color":"yello", "website":"http://ndtv.com"},
+{"name":"Pat Pat", "email":"pat@aol.com", "phone":"615-333-4411", "color":"yellow", "website":"http://ndtv.com"},
 {"name":"Bill Pot", "email":"bill@aol.com", "phone":"615-222-3312", "color":"green", "website":"http://timesnow.com"},
 {"name":"Jane Doe", "email":"jane@aol.com", "phone":"615-111-2212", "color":"blue", "website":"http://caravan.com"},
+{"name":"Bane Smith", "email":"bane@aol.com", "phone":"615-555-1000", "color":"lightpink", "website":"http://google.com"},
+{"name":"Lilly Hop", "email":"lily@aol.com", "phone":"615-444-1222", "color":"lightred", "website":"http://twitter.com"},
+{"name":"Peter Pat", "email":"peter@aol.com", "phone":"615-333-4333", "color":"lightyellow", "website":"http://github.com"},
+{"name":"Will Pot", "email":"will@aol.com", "phone":"615-222-3444", "color":"lightgreen", "website":"http://weather.com"},
+{"name":"Joe Doe", "email":"joe@aol.com", "phone":"615-666-2552", "color":"lightblue", "website":"http://hotmail.com"},
+{"name":"Bbubba Short", "email":"bubba@aol.com", "phone":"615-777-1212", "color":"darkpink", "website":"http://etsy.com"},
+{"name":"Lindy Hop", "email":"lindy@aol.com", "phone":"615-888-1112", "color":"darkred", "website":"http://yahoo.com"},
+{"name":"Fox Trot", "email":"fox@aol.com", "phone":"615-000-4411", "color":"darkyellow", "website":"http://apple.com"},
+{"name":"Billy swing", "email":"billy@aol.com", "phone":"615-999-3312", "color":"darkgreen", "website":"http://medium.com"},
+{"name":"Jill Doe", "email":"jill@aol.com", "phone":"615-101-2212", "color":"darkblue", "website":"http://blogger.com"},
 ]

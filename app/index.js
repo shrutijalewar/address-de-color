@@ -3,10 +3,9 @@
 var db = process.env.DB;
 var port = process.env.PORT;
 
-var config = require('./lib/config');
 var express = require('express');
-
 var app = express();
+var config = require('./lib/config');
 config(app);
 //super ninja way of doing it
 //require('./lib/config')(app);

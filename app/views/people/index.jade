@@ -13,14 +13,13 @@ html
         li: a(href= '/about') About
         li: a(href='/faq') Frequently Asked Question
         li: a(href='/contact') Contact
-        li: a(href='people/index') People Index
+        li: a(href='/people') People 
 
-     h2 People Page!
-     each person in people
-       .person
+      h2 People Page
+
+      each person in people
+       .person(style='background-color: #{person.color}')
+         h1: a(href=person.website)= person.name
          ul
-           li= person.name
-           li= person.email
-           li= person.color
-           li= person.website
+           li:a(href="mailto:#{person.email}")=person.email
            li= person.phone

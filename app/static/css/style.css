@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Crushed);
+body{
+font-family:'Crushed',cursive;
+font-size: 20px;
+}
+
+.person h1 a{
+text-decoration: none;
+color: black;
+position: relative center;
+}
+.person h1 a:hover{
+text-decoration: underline;
+}
+
+.person{
+display: inline-block;
+width: 300px;
+border: 5px solid lightpink;
+border-radius: 10px;
+margin: 15px;
+padding: 5px;
+
+}
